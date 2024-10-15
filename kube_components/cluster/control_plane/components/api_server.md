@@ -9,7 +9,3 @@
 - `kubectl edit deployment my-app`: Sends a PUT request to the API server (PUT /apis/apps/v1/namespaces/default/deployments/my-app).
 - `kubectl delete pod my-pod`: Deletes a resource like a pod (DELETE /api/v1/namespaces/default/pods/my-pod).
 - `kubectl get pods --watch`: Sets up a long-lived GET request to watch for changes (GET /api/v1/namespaces/default/pods?watch=true).
-
-
-- [etcd](./etcd.md): Information about etcd and its role in Kubernetes.
-- [Controller Manager](./controller_manager.md): Overview of the kube-controller-manager and its controllers.

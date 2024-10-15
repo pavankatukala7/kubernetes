@@ -13,6 +13,7 @@ The components within the Control Plane work together to achieve the following:
 - [API Server](./components/api_server.md): Details on the API Server and its usage.
 - [etcd](./components/etcd.md): Information about etcd and its role in Kubernetes.
 - [Controller Manager](./components/controller_manager.md): Overview of the kube-controller-manager and its controllers.
+- [Kube Scheduling](./components/kube-scheduler.md): Overview of the kube-controller-manager and its controllers.
 
 
 

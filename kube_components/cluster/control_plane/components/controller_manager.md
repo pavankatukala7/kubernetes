@@ -128,8 +128,3 @@ In addition to managing various controllers, the kube-controller-manager plays a
 - **Lifecycle Management:**  
   It manages the lifecycle of resources, ensuring they are created, updated, or deleted as necessary based on user specifications.  
   *Example:* If a new type of pastry is introduced, the kube-controller-manager is like the bakery manager who coordinates the introduction, ensuring staff are trained, supplies are ordered, and marketing materials are updated.
-
-
-
-- [etcd](./etcd.md): Information about etcd and its role in Kubernetes.
-- [API Server](./api_server.md): Details on the API Server and its usage.
